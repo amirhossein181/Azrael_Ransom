@@ -20,6 +20,9 @@
         Be careful that the anti-virus should be turned off.
       </li>
     </ul>
+    <p>
+      If you have a question click <a href='https://github.com/iamazrael/Azrael_Ransom/issues'> here </a>
+    </p>
   </body>
   
 </html>
