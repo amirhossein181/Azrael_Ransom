@@ -23,6 +23,14 @@
     <p>
       If you have a question click <a href='https://github.com/iamazrael/Azrael_Ransom/issues'> here </a>
     </p>
+    <h2>
+      Licence
+    </h2>
+    <ul>
+      <li>
+        Mozilla
+      </li>
+    </ul>
   </body>
   
 </html>
